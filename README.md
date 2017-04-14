@@ -1,4 +1,4 @@
-## godef - find symbol information in Go source
+# godef - Find symbol information in Go source
 
 Godef, given an expression or a location in a source file, prints the
 location of the definition of the symbol referred to.
